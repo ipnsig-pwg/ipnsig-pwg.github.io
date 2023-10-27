@@ -4,8 +4,6 @@ This document tries to list the various features of Bundle Protocol (RFC5050, RF
 
 No guarantee of accuracy. If you have modifications to suggest, please send a PR or write an issue at the [source github repo](https://github.com/ipnsig-pwg/ipnsig-pwg.github.io)
 
-Marc Blanchet, marc.blanchet@viagenie.ca
-
 | Feature/Stack | [ION](https://sourceforge.net/projects/ion-dtn/) | [IONE](https://sourceforge.net/projects/ione/) | [HDTN](https://github.com/nasa/HDTN/wiki/HDTN-Implementation-Features) | [uD3TN](https://gitlab.com/d3tn/ud3tn) | [DTNME](https://github.com/nasa/DTNME) | [BPLib/CFS](https://github.com/nasa/bplib) |
 | --- | ---- | ---- | ----- | ----- | --------- |
 | [BPv6](https://www.rfc-editor.org/rfc/rfc5050) |

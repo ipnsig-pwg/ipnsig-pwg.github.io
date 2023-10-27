@@ -12,7 +12,7 @@ No guarantee of accuracy. If you have modifications to suggest, please send a PR
 |   [LTPv1/BPv6](https://www.rfc-editor.org/rfc/rfc5326) |
 |   [BPSEC/BPv6](https://www.rfc-editor.org/rfc/rfc6257) |
 |   Custody BPv6 |
-| [BPv7] (https://www.rfc-editor.org/rfc/rfc9171) |
+| [BPv7](https://www.rfc-editor.org/rfc/rfc9171) |
 |   [TCPCLv3/BPv7](https://www.rfc-editor.org/rfc/rfc7242) |
 |   [TCPCLv4/BPv7](https://www.rfc-editor.org/rfc/rfc9174) |
 |   UDPCL/BPv7 |

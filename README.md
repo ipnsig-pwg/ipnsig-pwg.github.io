@@ -25,7 +25,7 @@ No guarantee of accuracy. If you have modifications to suggest, please send a PR
 | [Bundle Streaming Service Protocol](https://public.ccsds.org/Pubs/730x2g1.pdf) | | Y | Y | N | N |  |  |
 | [Asynchronous Message Service](https://public.ccsds.org/Pubs/735x1b1.pdf) | | Y | Y | N | N |  |  |
 | IPv6 (for CLAs) | | N | Y | N | Y |  |  |
-| [IPND](https://datatracker.ietf.org/doc/draft-johnson-dtn-ipnd/) | | Y | Y | N | N |  |  |
+| [IPND](https://datatracker.ietf.org/doc/draft-johnson-dtn-ipnd/) | | Y | Y | N | N | Y |  |
 | [CFDP](https://public.ccsds.org/Pubs/727x0b5.pdf) | | Y | Y | N | N |  |  |
 
 ## Acknowledgments

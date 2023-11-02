@@ -2,7 +2,7 @@
 
 This document tries to list the various features of Bundle Protocol (RFC5050, RFC9171) Implementations. It is based on reading documentation or information from the developers. When a cell is empty, it means not verified or unknown, maybe not implemented but not confirmed (to be not implemented).
 
-No guarantee of accuracy. If you have modifications to suggest, please send a PR or write an issue at the [source github repo](https://github.com/ipnsig-pwg/ipnsig-pwg.github.io)
+No guarantee of accuracy. If you have modifications to suggest, please send a PR or write an issue at the [source github repo](https://github.com/ipnsig-pwg/ipnsig-pwg.github.io) or [send email](mailto:marc.blanchet@viagenie.ca).
 
 | Feature/Stack | Subfeature | [ION](https://sourceforge.net/projects/ion-dtn/) | [IONE](https://sourceforge.net/projects/ione/) | [HDTN](https://github.com/nasa/HDTN/wiki/HDTN-Implementation-Features) | [uD3TN](https://gitlab.com/d3tn/ud3tn) | [DTNME](https://github.com/nasa/DTNME) | [BPLib/CFS](https://github.com/nasa/bplib) |
 | --- | --- | --- | --- | --- | --- | --- | --- |

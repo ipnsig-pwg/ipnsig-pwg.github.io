@@ -16,7 +16,7 @@ No guarantee of accuracy. If you have modifications to suggest, please send a PR
 |  | [TCPCLv3/BPv7](https://www.rfc-editor.org/rfc/rfc7242) | Y | Y | Y | Y | Y |  |
 |  | [TCPCLv4/BPv7](https://www.rfc-editor.org/rfc/rfc9174) | Y | Y | Y | [N](https://gitlab.com/d3tn/ud3tn/-/issues/40) | Y |  |
 |  | [UDPCL/BPv7](https://datatracker.ietf.org/doc/draft-sipos-dtn-udpcl/) | Y | Y | Y | N | Y |  |
-|  | LTPv1/BPv7 | Y | Y | Y | N | Y |  |
+|  | [LTPv1/BPv7](https://www.rfc-editor.org/rfc/rfc5326) | Y | Y | Y | N | Y |  |
 |  | [BPSEC/BPv7](https://www.rfc-editor.org/rfc/rfc9172) | Y | Y | Y | N | N |  |
 | | Custody (with [BIBE](https://datatracker.ietf.org/doc/draft-ietf-dtn-bibect/)) BPv7 | Y | Y | N |  | Y |  |
 | | [RTP/BPv7](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjrn92gvJaCAxXxFFkFHXY5A1QQFnoECAwQAQ&url=https%3A%2F%2Fcwe.ccsds.org%2Fsis%2Fdocs%2FSIS-MIA%2FDraft%2520Documents%2FRTP%2520over%2520DTN%2520for%2520Video%2F766x3r0_JPM_RID_Answer_TEMP.doc&usg=AOvVaw3YVH8gKoTvgPLxiUC7PgPq&opi=89978449) | N | N | Y | N |  |  |

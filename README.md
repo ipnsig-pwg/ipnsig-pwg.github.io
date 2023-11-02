@@ -28,6 +28,9 @@ No guarantee of accuracy. If you have modifications to suggest, please send a PR
 | [IPND](https://datatracker.ietf.org/doc/draft-johnson-dtn-ipnd/) | | Y | Y | N | N | N |  |
 | [CFDP](https://public.ccsds.org/Pubs/727x0b5.pdf) | | Y | Y | N | N | Y |  |
 
+## Notes
+- DTNME: as of 20231102, many claimed features such as BPv7 are not in the main/master branch but in [v1.2.0_Beta branch](https://github.com/nasa/DTNME/tree/v1.2.0_Beta).
+
 ## Acknowledgments
 Thanks to Scott Burleigh(ION, IONE), Scott Johnson(IONE), Felix Walter(uD3TN), Joshua Deaton(DTNME) and HDTN team for providing information on their implementations.
 

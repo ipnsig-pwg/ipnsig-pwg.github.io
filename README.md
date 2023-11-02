@@ -1,6 +1,6 @@
 # Bundle Protocol Implementations
 
-This document tries to list the various features of Bundle Protocol (RFC5050, RFC9171) Implementations. It is based on reading documentation or information from the developers. When a cell is empty, it means not verified or unknown, maybe not implemented but not confirmed (to be not implemented).
+This document tries to list the various features of Bundle Protocol ([RFC5050](https://www.rfc-editor.org/rfc/rfc5050.txt), [RFC9171](https://www.rfc-editor.org/rfc/rfc9171.txt) implementations. It is based on reading documentation or information from the developers. When a cell is empty, it means not verified or unknown, maybe not implemented but not confirmed (to be not implemented). Current work on the Bundle Protocol Suite is done in the [IETF DTN working group](https://datatracker.ietf.org/wg/dtn/documents/) and [CCSDS DTN working group](https://cwe.ccsds.org/sis/default.aspx#_SIS-DTN).
 
 No guarantee of accuracy. If you have modifications to suggest, please send a PR or write an issue at the [source github repo](https://github.com/ipnsig-pwg/ipnsig-pwg.github.io) or [send email](mailto:marc.blanchet@viagenie.ca).
 

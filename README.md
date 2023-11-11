@@ -6,7 +6,7 @@ This page content is based on reading documentation or information from the deve
 
 If you have modifications/additions to suggest, please send a PR or write an issue at the [source github repo](https://github.com/ipnsig-pwg/ipnsig-pwg.github.io) or [send email](mailto:marc.blanchet@viagenie.ca).
 
-| Feature/Stack | Subfeature | [ION](https://sourceforge.net/projects/ion-dtn/) | [IONE](https://sourceforge.net/projects/ione/) | [HDTN](https://github.com/nasa/HDTN/wiki/HDTN-Implementation-Features) | [uD3TN](https://gitlab.com/d3tn/ud3tn) | [DTNME](https://github.com/nasa/DTNME) | [BPLib/CFS](https://github.com/nasa/bplib) | [Unibo](https://gitlab.com/unibo-dtn/) | [IBR](https://github.com/ibrdtn/ibrdtn) |
+| Feature/Stack | Subfeature | [ION](https://sourceforge.net/projects/ion-dtn/) [ION-Core](https://github.com/nasa-jpl/ion-core) | [IONE](https://sourceforge.net/projects/ione/) | [HDTN](https://github.com/nasa/HDTN/wiki/HDTN-Implementation-Features) | [uD3TN](https://gitlab.com/d3tn/ud3tn) | [DTNME](https://github.com/nasa/DTNME) | [BPLib/CFS](https://github.com/nasa/bplib) | [Unibo](https://gitlab.com/unibo-dtn/) | [IBR](https://github.com/ibrdtn/ibrdtn) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | [BPv6](https://www.rfc-editor.org/rfc/rfc5050) | | Y | Y | Y | Y | Y |  | N | Y |
 |  | [TCPCLv3/BPv6](https://www.rfc-editor.org/rfc/rfc7242) | Y | Y | Y | Y | Y | | N | Y |

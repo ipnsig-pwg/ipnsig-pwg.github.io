@@ -32,13 +32,13 @@ If you have modifications/additions to suggest, please send a PR or write an iss
 | Primary Language | | C | C | C++ | C | C++ | C | C++ | C++ |
 
 ## Notes
-- DTNME: as of 20231102, many claimed features such as BPv7 are not in the main/master branch but in [v1.2.0_Beta branch](https://github.com/nasa/DTNME/tree/v1.2.0_Beta).
+- DTNME: as of 20231102, many claimed features such as BPv7 are not in the master branch but in [v1.2.0_Beta branch](https://github.com/nasa/DTNME/tree/v1.2.0_Beta).
 
 ## Additional Implementations
 There are additional BP implementations that are not listed here, because either there are unknown to the maintainer of this site or because the information about them is not public. The latter includes: ESA, JAXA.
 
 ## Acknowledgments
-Thanks to Scott Burleigh(ION, IONE), Scott Johnson(IONE), Felix Walter(uD3TN), Joshua Deaton(DTNME), HDTN team and Carlo Caini(Unibo) for providing information on their implementations.
+Thanks to Scott Burleigh(ION, IONE), Scott Johnson(IONE), Felix Walter(uD3TN), Joshua Deaton(DTNME), HDTN team, Carlo Caini(Unibo), Lorenzo Persampieri (Unibo) for providing information on their implementations.
 
 ## Last Version of this page
 [See last commit](https://github.com/ipnsig-pwg/ipnsig-pwg.github.io/commits/main)

@@ -8,7 +8,7 @@ If you have modifications/additions to suggest, please send a PR or write an iss
 
 | Feature/Stack | Subfeature | [ION](https://sourceforge.net/projects/ion-dtn/) [ION-Core](https://github.com/nasa-jpl/ion-core) | [IONE](https://sourceforge.net/projects/ione/) | [HDTN](https://github.com/nasa/HDTN/wiki/HDTN-Implementation-Features) | [uD3TN](https://gitlab.com/d3tn/ud3tn) | [DTNME](https://github.com/nasa/DTNME) | [BPLib/CFS](https://github.com/nasa/bplib) | [Unibo](https://gitlab.com/unibo-dtn/) | [IBR](https://github.com/ibrdtn/ibrdtn) |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| [BPv6](https://www.rfc-editor.org/rfc/rfc5050) | | Y | Y | Y | Y | Y |  | N | Y |
+| [BPv6](https://www.rfc-editor.org/rfc/rfc5050) | | Y | Y | Y | Y | Y | Y | N | Y |
 |  | [TCPCLv3](https://www.rfc-editor.org/rfc/rfc7242) | Y | Y | Y | Y | Y | | N | Y |
 |  | [UDPCL](https://www.rfc-editor.org/rfc/rfc7122) | Y | Y | Y | N | Y |  | N | Y |
 |  | [LTPv1](https://www.rfc-editor.org/rfc/rfc5326) | Y | Y | Y | N | Y |  | N | N |

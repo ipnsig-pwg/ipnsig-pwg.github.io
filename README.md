@@ -34,6 +34,7 @@ If you have modifications/additions to suggest, please send a PR or write an iss
 ## Notes
 - DTNME: as of 20231102, many claimed features such as BPv7 are not in the master branch but in [v1.2.0_Beta branch](https://github.com/nasa/DTNME/tree/v1.2.0_Beta).
 - IBR: from Lars Wolf: "as with some other university projects, it happens that the software gets outdated and is not well maintained any more."
+- IONE is a fork of ION, so they share most features.
 
 ## Additional Implementations
 There are additional BP implementations that are not listed here, because either there are unknown to this site maintainer or because their specifications are not public. The latter includes: ESA, JAXA.
